@@ -1,0 +1,16 @@
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+*.tsbuildinfo
+/frontend/vite.config.js
+/frontend/vite.config.d.ts
+uploads/
+node_modules/
+dist/
+coverage/
+*.sqlite3
+backend/tests/.runtime/
